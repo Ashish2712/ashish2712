@@ -10,5 +10,5 @@ Some things about Me!
 - 💬 Ask me about anything always happy to help
 - 📫 How to reach me: akushwah206@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I one walk(100+ km) and hitach hike(300+km) from manali to leh on a solo trip.
+- ⚡ Fun fact: I once walk(100+ km) and hitch-hike(350+km) from manali to leh on a solo trip.
 
