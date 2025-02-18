@@ -5,7 +5,7 @@ My Name is Ashish and I am a Automation Test Engineer from India. You can find m
 
 Some things about Me!
 
-- 🔭 I’m currently working on Python and Java based Automation Framework
+- 🔭 I’m currently working on Python,Javascript and Java based Automation Framework
 - 🌱 I’m currently learning Kubernetes and docker
 - 💬 Ask me about anything always happy to help
 - 📫 How to reach me: akushwah206@gmail.com
